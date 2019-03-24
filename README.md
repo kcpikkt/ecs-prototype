@@ -1,4 +1,5 @@
 # ecs-prototype
+<<<<<<< HEAD
 Work in Progress!
 Entity-Component System prototype, unsual in that it is designed to work
 on preallocated, fixed-size memory as opposed to 'standard' maps-based one.
@@ -11,3 +12,6 @@ Memory overhead can be calculated with this formula:
 ![overhead formula](./overhead.png)
 
 
+=======
+prototype of fixed space entity-component system
+>>>>>>> 2d3568e5bef3b88ed1486a6e5be02263a8946e91
