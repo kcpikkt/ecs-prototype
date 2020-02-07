@@ -1,5 +1,4 @@
 # ecs-prototype
-Work in Progress!
 Entity-Component System prototype, unsual in that it is designed to work
 on preallocated, fixed-size memory and does not use maps.
 This could bring benefits in speed of random access to components of entities
